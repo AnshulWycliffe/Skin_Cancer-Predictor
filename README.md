@@ -3,6 +3,12 @@ This project use tensorflow model for predictions
 The project is based on this reference website, do check out!
 https://www.thepythoncode.com/article/skin-cancer-detection-using-tensorflow-in-python
 
+# Author of the code
+https://www.thepythoncode.com/author/abdou-rockikz
+
+# Modified By
+Anshul Wycliffe, Oh it's me !
+
 # Download Data sets from
 dataset from https://github.com/udacity/dermatologist-ai
 
