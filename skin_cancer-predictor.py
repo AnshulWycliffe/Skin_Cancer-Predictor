@@ -1,7 +1,8 @@
 ''' Please note that this is the final version of this program,
     and it cannot have the full code of training model set 
     please refer the website also.'''
-''' author =  https://www.thepythoncode.com/author/abdou-rockikz'''
+''' author =  https://www.thepythoncode.com/author/abdou-rockikz
+    modified by = Anshul Wycliffe, Oh it's me!'''
 
 
 
