@@ -1,3 +1,10 @@
+''' Please note that this is the final version of this program,
+    and it cannot have the full code of training model set 
+    please refer the website also.'''
+''' author =  https://www.thepythoncode.com/author/abdou-rockikz'''
+
+
+
 import tensorflow as tf
 import tensorflow_hub as hub
 import matplotlib.pyplot as plt
